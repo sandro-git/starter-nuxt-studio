@@ -1,4 +1,6 @@
-# Nuxt Content
+# Nuxt Content avec Nuxt Studio
+ 
+Ca peut donner un truc de fou. 
 
 This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
 
